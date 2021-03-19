@@ -1,0 +1,11 @@
+{  "test_sequence": [{"testcase": "TestCase No1", "runs": 1}],
+    "path_base": "your framework path",
+    "stop_testcase_on_fail": false,
+    "take_screenshot_on_pass": false,
+    "take_screenshot_on_fail": true,
+    "take_screenshots": true,
+    "executable_path" : "app",
+    "website_url": "https://www.google.com/",
+    "method_name_cleanup": "stop_all",
+    "close_browser_between_testcases": true
+}
